@@ -4,13 +4,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.devon.demo</groupId>
+  <groupId>com.pramod.demo</groupId>
   <artifactId>ticket-service</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
   <name>ticket-service</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
